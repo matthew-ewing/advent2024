@@ -4,7 +4,7 @@ use itertools::Itertools;
 use std::ops::Not;
 
 pub fn d2() {
-    let file_path = "/Users/matthewe/Desktop/advent/advent/input/d2.txt";
+    let file_path = "/Users/matthewe/GitHub/advent2024/input/d2.txt";
 
     let reader = BufReader::new(File::open(file_path).expect("Cannot open file.txt"));
     

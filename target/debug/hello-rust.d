@@ -1,1 +1,1 @@
-/Users/matthewe/Desktop/advent/advent/target/debug/hello-rust: /Users/matthewe/Desktop/advent/advent/src/d1.rs /Users/matthewe/Desktop/advent/advent/src/d2.rs /Users/matthewe/Desktop/advent/advent/src/main.rs
+/Users/matthewe/GitHub/advent2024/target/debug/hello-rust: /Users/matthewe/GitHub/advent2024/src/d1.rs /Users/matthewe/GitHub/advent2024/src/d2.rs /Users/matthewe/GitHub/advent2024/src/d3.rs /Users/matthewe/GitHub/advent2024/src/main.rs

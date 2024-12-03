@@ -2,7 +2,7 @@ use std::io::{BufRead, BufReader};
 use std::fs::File;
 
 pub fn d1() {
-    let file_path = "/Users/matthewe/Desktop/advent/advent/input/d1.txt";
+    let file_path = "/Users/matthewe/GitHub/advent2024/input/d1.txt";
 
     let reader = BufReader::new(File::open(file_path).expect("Cannot open file.txt"));
     let mut left: Vec<i32> = Vec::new();
